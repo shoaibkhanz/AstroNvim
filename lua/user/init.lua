@@ -27,7 +27,7 @@ local config = {
 
   -- Set colorscheme to use
   -- colorscheme = "default_theme",
-  colorscheme = "tokyonight-moon",
+  colorscheme = "tokyonight-night",
 
   -- Override highlight groups in any theme
   highlights = {
